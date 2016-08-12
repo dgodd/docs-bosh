@@ -244,6 +244,25 @@ compilation:
 ```
 
 ---
+## <a id='ha'></a>vSphere HA
+
+<p class="note">Note: This feature is available with bosh-vsphere-cpi v26+.</p>
+
+vSphere High Availability (HA) monitors hosts and virtual machines and
+automatically restarts virtual machines on other hosts in the cluster when an
+outage is detected. vSphere HA allows BOSH to resurrect VMs _without
+manual intervention_ in the event of an ESXi host outage.
+
+Configure vSphere HA as follows:
+
+* Check ***Cluster* &rarr; Manage &rarr; Settings &rarr; vSphere HA &rarr;
+Edit... &rarr; Turn on vSphere HA**
+
+* Check **Host Monitoring**
+
+* Ensure the Response for **Failure conditions and VM response &arr; Host Isolation** is set to **Shut down and restart VMs**
+
+---
 ## <a id='notes'></a> Notes
 
 * Assigned VM names (e.g. `vm-8dg349-s7cn74-...`) should not be manually changed since the CPI uses them to find created VMs. You can use [`bosh vms --details`](sysadmin-commands.html#health) to find which VM is assigned which job. VMs are also tagged with their assigned job, index and deployment.
