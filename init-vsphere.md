@@ -1,5 +1,10 @@
 ---
 title: Initializing BOSH environment on vSphere
+menu:
+  main:
+    Name: Initializing BOSH environment on vSphere
+    identifier: bosh/init-vsphere
+    parent: bosh
 ---
 
 This document shows how to initialize new [environment](terminology.html#environment) on vSphere.

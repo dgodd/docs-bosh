@@ -1,5 +1,10 @@
 ---
 title: Pre-start Script
+menu:
+  main:
+    Name: Pre-start Script
+    identifier: bosh/pre-start
+    parent: bosh
 ---
 
 (See [Job Lifecycle](job-lifecycle.html) for an explanation of when pre-start scripts run.)

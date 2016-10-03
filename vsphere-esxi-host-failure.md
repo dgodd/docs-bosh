@@ -1,5 +1,10 @@
 ---
 title: Recovery from an ESXi Host Failure
+menu:
+  main:
+    Name: Recovery from an ESXi Host Failure
+    identifier: bosh/vsphere-esxi-host-failure
+    parent: bosh
 ---
 
 This topic describes how to recreate VMs in the event of an ESXi host failure.

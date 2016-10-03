@@ -1,5 +1,10 @@
 ---
 title: BOSH Design Principles
+menu:
+  main:
+    Name: BOSH Design Principles
+    identifier: bosh/design
+    parent: bosh
 ---
 
 BOSH is an open framework for managing the full development and deployment life cycle of large-scale distributed software applications.

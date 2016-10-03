@@ -1,5 +1,10 @@
 ---
 title: Deploying MicroBOSH
+menu:
+  main:
+    Name: Deploying MicroBOSH
+    identifier: bosh/deploy-microbosh
+    parent: bosh
 ---
 
 MicroBOSH is a version of BOSH that runs on a single VM.

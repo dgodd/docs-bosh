@@ -1,5 +1,10 @@
 ---
 title: Tips
+menu:
+  main:
+    Name: Tips
+    identifier: bosh/tips
+    parent: bosh
 ---
 
 This document lists several common problems. If you are looking for CPI specific errors see:

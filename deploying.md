@@ -1,5 +1,10 @@
 ---
 title: Deploying
+menu:
+  main:
+    Name: Deploying
+    identifier: bosh/deploying
+    parent: bosh
 ---
 
 Once referenced stemcells and releases are uploaded to the Director and the deployment manifest is complete, a deployment can be formed on the Director. The CLI provides a single command to create and update deployments: `bosh deploy`. From the perspective of the Director, creation and update of the deployment happens through the same steps.

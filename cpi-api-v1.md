@@ -1,5 +1,10 @@
 ---
 title: CPI API v1
+menu:
+  main:
+    Name: CPI API v1
+    identifier: bosh/cpi-api-v1
+    parent: bosh
 ---
 
 For an overview of the sequence of CPI calls, the following resources are helpful:

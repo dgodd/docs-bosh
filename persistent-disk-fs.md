@@ -1,5 +1,10 @@
 ---
 title: Customizing Persistent Disk Filesystem
+menu:
+  main:
+    Name: Customizing Persistent Disk Filesystem
+    identifier: bosh/persistent-disk-fs
+    parent: bosh
 ---
 
 <p class="note">Note: This feature is available with 3215+ stemcell series.</p>

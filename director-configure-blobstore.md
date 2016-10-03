@@ -1,5 +1,10 @@
 ---
 title: Connecting the Director to an External Blobstore
+menu:
+  main:
+    Name: Connecting the Director to an External Blobstore
+    identifier: bosh/director-configure-blobstore
+    parent: bosh
 ---
 
 The Director stores uploaded releases, configuration files, logs and other data in a blobstore. A default DAV blobstore is sufficient for most BOSH environments; however, a highly-available external blobstore may be desired.

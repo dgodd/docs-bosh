@@ -1,5 +1,10 @@
 ---
 title: Initializing BOSH environment on AWS
+menu:
+  main:
+    Name: Initializing BOSH environment on AWS
+    identifier: bosh/init-aws
+    parent: bosh
 ---
 
 This document shows how to initialize new [environment](terminology.html#environment) on Amazon Web Services (AWS).

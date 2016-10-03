@@ -1,5 +1,10 @@
 ---
 title: Manual repair with Cloud Check
+menu:
+  main:
+    Name: Manual repair with Cloud Check
+    identifier: bosh/cck
+    parent: bosh
 ---
 
 <p class="note">Note: Updated for bosh-release v183 (1.3010.0).</p>

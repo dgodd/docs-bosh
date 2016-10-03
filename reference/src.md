@@ -1,5 +1,10 @@
 ---
 title: src
+menu:
+  main:
+    Name: src
+    identifier: bosh/reference/src
+    parent: bosh/reference
 ---
 
 

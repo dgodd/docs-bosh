@@ -1,5 +1,10 @@
 ---
 title: Creating IAM Users
+menu:
+  main:
+    Name: Creating IAM Users
+    identifier: bosh/aws-iam-users
+    parent: bosh
 ---
 
 ## <a id="create"></a> Creating new IAM user

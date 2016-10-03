@@ -1,5 +1,10 @@
 ---
 title: Using IAM Instance Profiles
+menu:
+  main:
+    Name: Using IAM Instance Profiles
+    identifier: bosh/aws-iam-instance-profiles
+    parent: bosh
 ---
 
 <p class="note">Note: This feature is available with bosh-release v208+ (1.3087.0) colocated with bosh-aws-cpi v31+.</p>

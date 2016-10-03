@@ -1,5 +1,10 @@
 ---
 title: Setting Up AWS for BOSH
+menu:
+  main:
+    Name: Setting Up AWS for BOSH
+    identifier: bosh/setup-aws
+    parent: bosh
 ---
 
 This topic explains how to prepare AWS for deploying BOSH or MicroBOSH.

@@ -1,5 +1,10 @@
 ---
 title: Creating a MicroBOSH Deployment Manifest
+menu:
+  main:
+    Name: Creating a MicroBOSH Deployment Manifest
+    identifier: bosh/create-micro-manifest
+    parent: bosh
 ---
 
 <p class="note">Note: Micro CLI plugin is deprecated, but is still supported. To set up a new Director VM or upgrade your MicroBOSH, please follow <a href="./init.html">Bootstrapping an environment</a> document.</p>

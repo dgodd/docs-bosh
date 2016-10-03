@@ -1,5 +1,10 @@
 ---
 title: Process monitoring with Monit
+menu:
+  main:
+    Name: Process monitoring with Monit
+    identifier: bosh/vm-monit
+    parent: bosh
 ---
 
 The Agent on each deployment job VM is responsible for managing lifecycle of each enabled release job. It starts, monitors, restarts and stops release jobs' processes. These tasks are done with the help of the  [Monit](http://mmonit.com/monit/). The Agent communicates with the Monit daemon through Monit HTTP APIs to add, remove, start, stop, monitor and unmonitor release jobs' processes.

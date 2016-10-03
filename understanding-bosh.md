@@ -1,5 +1,10 @@
 ---
 title: Understanding BOSH
+menu:
+  main:
+    Name: Understanding BOSH
+    identifier: bosh/understanding-bosh
+    parent: bosh
 ---
 
 BOSH is an open source tool chain for release engineering, deployment, and

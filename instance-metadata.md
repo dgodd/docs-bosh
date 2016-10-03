@@ -1,5 +1,10 @@
 ---
 title: Instance Metadata
+menu:
+  main:
+    Name: Instance Metadata
+    identifier: bosh/instance-metadata
+    parent: bosh
 ---
 
 <p class="note">Note: This feature is available with bosh-release v255.4+ and on 3213+ stemcell series.</p>

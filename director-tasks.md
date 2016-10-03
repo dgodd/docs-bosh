@@ -1,5 +1,10 @@
 ---
 title: Director tasks
+menu:
+  main:
+    Name: Director tasks
+    identifier: bosh/director-tasks
+    parent: bosh
 ---
 
 An operator uses the CLI to interact with the Director. Certain CLI commands result in complex and potentially long running operations against the IaaS, blobstore, or other resources. Such commands are associated with a Director task and continue running on the Director even if the CLI disconnects from the Director.

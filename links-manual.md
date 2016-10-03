@@ -1,5 +1,10 @@
 ---
 title: Manual Linking
+menu:
+  main:
+    Name: Manual Linking
+    identifier: bosh/links-manual
+    parent: bosh
 ---
 
 (See [Links](links.html) and [Link properties](links-properties.html) for an introduction.)

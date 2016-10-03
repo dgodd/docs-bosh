@@ -1,5 +1,10 @@
 ---
 title: Deploying MicroBOSH to vSphere
+menu:
+  main:
+    Name: Deploying MicroBOSH to vSphere
+    identifier: bosh/deploy-microbosh-to-vsphere
+    parent: bosh
 ---
 
 This topic explains how to deploy MicroBOSH to VMware vSphere.

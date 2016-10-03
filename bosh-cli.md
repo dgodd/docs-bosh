@@ -1,5 +1,10 @@
 ---
 title: BOSH Command Line Interface
+menu:
+  main:
+    Name: BOSH Command Line Interface
+    identifier: bosh/bosh-cli
+    parent: bosh
 ---
 
 BOSH Command Line Interface (CLI) is used to interact with the Director. The CLI is written in Ruby and is distributed via `bosh_cli` gem.

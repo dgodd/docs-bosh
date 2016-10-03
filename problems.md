@@ -1,5 +1,10 @@
 ---
 title: What Problems Does BOSH Solve?
+menu:
+  main:
+    Name: What Problems Does BOSH Solve?
+    identifier: bosh/problems
+    parent: bosh
 ---
 
 BOSH allows individual developers and teams to easily version, package and deploy software in a reproducible manner.

@@ -1,5 +1,10 @@
 ---
 title: Post-start Script
+menu:
+  main:
+    Name: Post-start Script
+    identifier: bosh/post-start
+    parent: bosh
 ---
 
 (See [Job Lifecycle](job-lifecycle.html) for an explanation of when post-start scripts run.)

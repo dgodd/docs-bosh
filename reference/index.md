@@ -1,5 +1,10 @@
 ---
 title: BOSH Reference
+menu:
+  main:
+    Name: BOSH Reference
+    identifier: bosh/reference
+    parent: bosh
 ---
 
 ## <a id="bosh-release"></a> BOSH release ##

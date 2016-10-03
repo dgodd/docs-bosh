@@ -1,5 +1,10 @@
 ---
 title: Connecting the Director to an External Postgres Database
+menu:
+  main:
+    Name: Connecting the Director to an External Postgres Database
+    identifier: bosh/director-configure-db
+    parent: bosh
 ---
 
 The Director stores VM, persistent disk and other information in a database. An internal database might be sufficient for your deployment; however, a highly-available external database can improve performance, scalability and protect against data loss.

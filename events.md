@@ -1,5 +1,10 @@
 ---
 title: Events
+menu:
+  main:
+    Name: Events
+    identifier: bosh/events
+    parent: bosh
 ---
 
 <p class="note">Note: This feature is available in bosh-release v256+.</p>

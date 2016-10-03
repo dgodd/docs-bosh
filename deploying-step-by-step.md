@@ -1,5 +1,10 @@
 ---
 title: Deploying Step-by-step
+menu:
+  main:
+    Name: Deploying Step-by-step
+    identifier: bosh/deploying-step-by-step
+    parent: bosh
 ---
 
 The Director will do the following [steps](https://www.youtube.com/watch?v=ay6GjmiJTPM) when `bosh deploy` (or its related commands such as start, stop and recreate) command runs:

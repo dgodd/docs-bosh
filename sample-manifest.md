@@ -1,5 +1,10 @@
 ---
 title: Sample BOSH Deployment Manifest
+menu:
+  main:
+    Name: Sample BOSH Deployment Manifest
+    identifier: bosh/sample-manifest
+    parent: bosh
 ---
 
 The following is a sample BOSH deployment manifest. See [Understanding the BOSH Deployment Manifest](./deployment-manifest.html) for an explanation of the manifest contents.

@@ -1,5 +1,10 @@
 ---
 title: Automatic repair with Resurrector
+menu:
+  main:
+    Name: Automatic repair with Resurrector
+    identifier: bosh/resurrector
+    parent: bosh
 ---
 
 The Resurrector is a plugin to the [Health Monitor](bosh-components.html#health-monitor). It's responsible for automatically recreating VMs that become inaccessible.

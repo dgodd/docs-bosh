@@ -1,5 +1,10 @@
 ---
 title: Monitoring
+menu:
+  main:
+    Name: Monitoring
+    identifier: bosh/monitoring
+    parent: bosh
 ---
 
 BOSH monitors deployed VMs and release jobs' processes on those VMs via the Health Monitor and the help of the Agent, and Monit.

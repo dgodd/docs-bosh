@@ -1,5 +1,10 @@
 ---
 title: Drain Script
+menu:
+  main:
+    Name: Drain Script
+    identifier: bosh/drain
+    parent: bosh
 ---
 
 (See [Job Lifecycle](job-lifecycle.html) for an explanation of when drain scripts run.)

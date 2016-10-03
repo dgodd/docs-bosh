@@ -1,5 +1,10 @@
 ---
 title: VirtualBox CPI
+menu:
+  main:
+    Name: VirtualBox CPI
+    identifier: bosh/virtualbox-cpi
+    parent: bosh
 ---
 
 This topic describes cloud properties for different resources created by the [VirtualBox CPI](https://bosh.io/releases/github.com/cppforlife/bosh-virtualbox-cpi-release). VirtualBox CPI works with [vSphere ESXI stemcells](https://bosh.io/stemcells/bosh-vsphere-esxi-ubuntu-trusty-go_agent).

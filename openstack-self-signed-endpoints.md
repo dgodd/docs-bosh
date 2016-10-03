@@ -1,5 +1,10 @@
 ---
 title: Validating self-signed OpenStack endpoints
+menu:
+  main:
+    Name: Validating self-signed OpenStack endpoints
+    identifier: bosh/openstack-self-signed-endpoints
+    parent: bosh
 ---
 
 <p class="note">Note: This feature is available with bosh-openstack-cpi v23+.</p>

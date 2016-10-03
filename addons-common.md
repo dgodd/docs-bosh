@@ -1,5 +1,10 @@
 ---
 title: Common Addons
+menu:
+  main:
+    Name: Common Addons
+    identifier: bosh/addons-common
+    parent: bosh
 ---
 
 (See [runtime config](runtime-config.html#addons) for an introduction to addons.)

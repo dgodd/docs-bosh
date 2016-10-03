@@ -1,5 +1,10 @@
 ---
 title: Compiled Releases
+menu:
+  main:
+    Name: Compiled Releases
+    identifier: bosh/compiled-releases
+    parent: bosh
 ---
 
 <p class="note">Note: This feature is available with bosh-release v210+.</p>

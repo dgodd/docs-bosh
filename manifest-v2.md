@@ -1,5 +1,10 @@
 ---
 title: Manifest v2 Schema
+menu:
+  main:
+    Name: Manifest v2 Schema
+    identifier: bosh/manifest-v2
+    parent: bosh
 ---
 
 <p class="note">Note: This feature is available with bosh-release v255.4+.</p>

@@ -1,5 +1,10 @@
 ---
 title: BOSH Database
+menu:
+  main:
+    Name: BOSH Database
+    identifier: bosh/reference/boshdb
+    parent: bosh/reference
 ---
 
 BOSH contains a database which is used to maintain state for three main processes:

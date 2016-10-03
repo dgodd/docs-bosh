@@ -1,5 +1,10 @@
 ---
 title: User management on the Director
+menu:
+  main:
+    Name: User management on the Director
+    identifier: bosh/director-users
+    parent: bosh
 ---
 
 The Director provides a very simple built-in user management system for authentication of operators and internal services (for example, the Health Monitor). Alternatively, it can integrate with UAA for more advanced use cases.

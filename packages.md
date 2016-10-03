@@ -1,5 +1,10 @@
 ---
 title: Creating BOSH Packages
+menu:
+  main:
+    Name: Creating BOSH Packages
+    identifier: bosh/packages
+    parent: bosh
 ---
 
 A package is a component of a BOSH release that contains a packaging `spec` file and a packaging script. 

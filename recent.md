@@ -1,5 +1,10 @@
 ---
 Title: Recent Additions and Updates
+menu:
+  main:
+    Name: 
+    identifier: bosh/recent
+    parent: bosh
 ---
 
 * [Link properties](links-properties.html)

@@ -1,5 +1,10 @@
 ---
 title: Index
+menu:
+  main:
+    Name: Index
+    identifier: bosh
+    parent: ''
 ---
 
 See [Recent Additions and Updates](recent.html).

@@ -1,5 +1,10 @@
 ---
 title: Link Properties
+menu:
+  main:
+    Name: Link Properties
+    identifier: bosh/links-properties
+    parent: bosh
 ---
 
 (See [Links](links.html) for an introduction.)

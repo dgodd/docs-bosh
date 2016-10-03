@@ -1,5 +1,10 @@
 ---
 title: Initializing BOSH environment on vCloud
+menu:
+  main:
+    Name: Initializing BOSH environment on vCloud
+    identifier: bosh/init-vcloud
+    parent: bosh
 ---
 
 This document shows how to initialize new [environment](terminology.html#environment) on vCloud.

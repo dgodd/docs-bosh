@@ -1,5 +1,10 @@
 ---
 title: Google CPI
+menu:
+  main:
+    Name: Google CPI
+    identifier: bosh/google-cpi
+    parent: bosh
 ---
 
 This topic describes cloud properties for different resources created by the Google CPI.

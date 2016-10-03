@@ -1,5 +1,10 @@
 ---
 title: Location and use of logs
+menu:
+  main:
+    Name: Location and use of logs
+    identifier: bosh/job-logs
+    parent: bosh
 ---
 
 This topic describes different types of logs and how to access them.

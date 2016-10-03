@@ -1,5 +1,10 @@
 ---
 title: Initializing BOSH environment on OpenStack
+menu:
+  main:
+    Name: Initializing BOSH environment on OpenStack
+    identifier: bosh/init-openstack
+    parent: bosh
 ---
 
 This document shows how to initialize new [environment](terminology.html#environment) on OpenStack.

@@ -1,5 +1,10 @@
 ---
 title: What is a Deployment?
+menu:
+  main:
+    Name: What is a Deployment?
+    identifier: bosh/deployment
+    parent: bosh
 ---
 
 A deployment is a collection of VMs, built from a [stemcell](stemcell.html), that has been populated with specific [releases](release.html) and disks that keep persistent data. These resources are created based on a manifest file in the IaaS and managed by the BOSH Director, a centralized management server.

@@ -1,5 +1,10 @@
 ---
 title: RackHD CPI
+menu:
+  main:
+    Name: RackHD CPI
+    identifier: bosh/rackhd-cpi
+    parent: bosh
 ---
 
 [RackHD CPI](https://bosh.io/releases/github.com/cloudfoundry-incubator/bosh-rackhd-cpi-release) works with [OpenStack raw stemcells](https://bosh.io/stemcells/bosh-openstack-kvm-ubuntu-trusty-go_agent-raw).

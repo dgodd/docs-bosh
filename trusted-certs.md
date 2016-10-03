@@ -1,5 +1,10 @@
 ---
 title: Trusted Certificates
+menu:
+  main:
+    Name: Trusted Certificates
+    identifier: bosh/trusted-certs
+    parent: bosh
 ---
 
 <p class="note">Note: This feature is available with bosh-release v176+ (1.2992.0) and stemcells v2992+.</p>

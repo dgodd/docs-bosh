@@ -1,5 +1,10 @@
 ---
 title: Recovery from a vSphere Network Partitioning Fault
+menu:
+  main:
+    Name: Recovery from a vSphere Network Partitioning Fault
+    identifier: bosh/vsphere-network-partition
+    parent: bosh
 ---
 
 This topic describes how to recreate VMs in the event of a network partition

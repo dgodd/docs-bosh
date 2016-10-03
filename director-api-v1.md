@@ -1,5 +1,10 @@
 ---
 title: Director API v1
+menu:
+  main:
+    Name: Director API v1
+    identifier: bosh/director-api-v1
+    parent: bosh
 ---
 
 <p class="note">Note: Before using the Director API directly, we strongly encourage to consider using the CLI for automation such as performing a scheduled deploy from a CI. We hope that you will open a <a href="https://github.com/cloudfoundry/bosh/issues">GitHub issue</a> to share your use cases so that we can suggest or possibly make additions to the CLI.</a>

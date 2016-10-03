@@ -1,5 +1,10 @@
 ---
 title: Deployment Manifest Schema
+menu:
+  main:
+    Name: Deployment Manifest Schema
+    identifier: bosh/deployment-manifest
+    parent: bosh
 ---
 
 <p class="note">Note: Once you opt into using cloud config all deployments must be converted to use manifest v2 format that disallows IaaS specific configuration. See <a href="manifest-v2.html">manifest v2 schema</a> for allowed configurations. v257+ supports deploying both v1 and v2 manifests to the same director.</p>

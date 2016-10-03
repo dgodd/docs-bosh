@@ -1,5 +1,10 @@
 ---
 title: SoftLayer CPI
+menu:
+  main:
+    Name: SoftLayer CPI
+    identifier: bosh/softlayer-cpi
+    parent: bosh
 ---
 
 This topic describes cloud properties for different resources created by the SoftLayer CPI.

@@ -1,5 +1,10 @@
 ---
 title: Extended Registry configuration
+menu:
+  main:
+    Name: Extended Registry configuration
+    identifier: bosh/openstack-registry
+    parent: bosh
 ---
 
 <p class="note">Note: We are actively pursuing to remove the Registry to simplify BOSH architecture.</p>

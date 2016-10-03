@@ -1,5 +1,10 @@
 ---
 title: Setting Up vSphere for BOSH
+menu:
+  main:
+    Name: Setting Up vSphere for BOSH
+    identifier: bosh/setup-vsphere
+    parent: bosh
 ---
 
 This topic explains how to prepare vSphere for deploying BOSH or MicroBOSH.

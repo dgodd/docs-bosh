@@ -1,5 +1,10 @@
 ---
 title: Deployment Basics
+menu:
+  main:
+    Name: Deployment Basics
+    identifier: bosh/deployment-basics
+    parent: bosh
 ---
 
 A [deployment](deployment.html) is a collection of VMs and persistent disks. A deployment is split into smaller logical units called deployment jobs.

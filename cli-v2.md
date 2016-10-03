@@ -1,5 +1,10 @@
 ---
 title: CLI v2 vs v1
+menu:
+  main:
+    Name: CLI v2 vs v1
+    identifier: bosh/cli-v2
+    parent: bosh
 ---
 
 <p class="note">Note: Applies to CLI v2 alpha 1.</p>

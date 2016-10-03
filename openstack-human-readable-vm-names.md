@@ -1,5 +1,10 @@
 ---
 title: Using human-readable VM names instead of UUIDs
+menu:
+  main:
+    Name: Using human-readable VM names instead of UUIDs
+    identifier: bosh/openstack-human-readable-vm-names
+    parent: bosh
 ---
 
 <p class="note">Note: This feature is available with bosh-openstack-cpi v23+.</p>

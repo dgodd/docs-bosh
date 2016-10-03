@@ -1,5 +1,10 @@
 ---
 title: Access Event Logging
+menu:
+  main:
+    Name: Access Event Logging
+    identifier: bosh/director-access-events
+    parent: bosh
 ---
 
 <p class="note">Note: This feature is available in bosh-release v256+.</p>

@@ -1,5 +1,10 @@
 ---
 title: Persistent disk snapshotting
+menu:
+  main:
+    Name: Persistent disk snapshotting
+    identifier: bosh/snapshots
+    parent: bosh
 ---
 
 <p class="note"><strong>Note</strong>: This feature is experimental.</p>

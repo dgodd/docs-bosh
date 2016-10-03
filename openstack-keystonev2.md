@@ -1,5 +1,10 @@
 ---
 title: Using Keystone API v2
+menu:
+  main:
+    Name: Using Keystone API v2
+    identifier: bosh/openstack-keystonev2
+    parent: bosh
 ---
 
 [The default template](init-openstack.html#create-manifest) provided for bosh-init configures authentication using the Keystone v3 API. This document describes how to use Keystone v2 if your OpenStack installation enforces this.

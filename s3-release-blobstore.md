@@ -1,5 +1,10 @@
 ---
 title: Setting up an S3 Release Blobstore
+menu:
+  main:
+    Name: Setting up an S3 Release Blobstore
+    identifier: bosh/s3-release-blobstore
+    parent: bosh
 ---
 
 This topic is written for release maintainers and describes how to set up a S3 bucket for storing release artifacts.

@@ -1,5 +1,10 @@
 ---
 title: Install bosh-init
+menu:
+  main:
+    Name: Install bosh-init
+    identifier: bosh/install-bosh-init
+    parent: bosh
 ---
 
 `bosh-init` is used for creating and updating a Director VM (and its persistent disk) in an environment.

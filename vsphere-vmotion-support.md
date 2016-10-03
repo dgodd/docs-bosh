@@ -1,5 +1,10 @@
 ---
 title: Storage DRS and vMotion Support
+menu:
+  main:
+    Name: Storage DRS and vMotion Support
+    identifier: bosh/vsphere-vmotion-support
+    parent: bosh
 ---
 
 <p class="note">Note: Storage DRS and vMotion can be used with bosh-vsphere-cpi v18+.</p>

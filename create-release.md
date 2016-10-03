@@ -1,5 +1,10 @@
 ---
 title: Creating a Release
+menu:
+  main:
+    Name: Creating a Release
+    identifier: bosh/create-release
+    parent: bosh
 ---
 
 A release contains one or more pieces of software that work together.

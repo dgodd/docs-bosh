@@ -1,5 +1,10 @@
 ---
 title: First class AZs (Availability Zones)
+menu:
+  main:
+    Name: First class AZs (Availability Zones)
+    identifier: bosh/azs
+    parent: bosh
 ---
 
 <p class="note">Note: This feature is available with bosh-release v241+. Once you opt into using cloud config all deployments must be converted to use new format. There is no way to opt out of the cloud config once you opt in.</p>

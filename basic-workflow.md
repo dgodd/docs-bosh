@@ -1,5 +1,10 @@
 ---
 title: Basic Workflow
+menu:
+  main:
+    Name: Basic Workflow
+    identifier: bosh/basic-workflow
+    parent: bosh
 ---
 
 The Director is primarily used for managing deployments.

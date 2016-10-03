@@ -1,5 +1,10 @@
 ---
 title: Agent-CPI Interactions
+menu:
+  main:
+    Name: Agent-CPI Interactions
+    identifier: bosh/agent-cpi-interactions
+    parent: bosh
 ---
 
 Here is an overview of the interactions between the CPI and the Agent on CloudStack as an example:

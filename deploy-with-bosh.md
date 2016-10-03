@@ -1,5 +1,10 @@
 ---
 title: Deploying Distributed Software with BOSH
+menu:
+  main:
+    Name: Deploying Distributed Software with BOSH
+    identifier: bosh/deploy-with-bosh
+    parent: bosh
 ---
 
 There are many ways to use BOSH to deploy distributed software.

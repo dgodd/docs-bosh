@@ -1,5 +1,10 @@
 ---
 title: Removal of compilers and other development tools
+menu:
+  main:
+    Name: Removal of compilers and other development tools
+    identifier: bosh/remove-dev-tools
+    parent: bosh
 ---
 
 <p class="note">Note: This feature is available with bosh-release v255.4+ and on 3213+ stemcell series.</p>

@@ -1,5 +1,10 @@
 ---
 title: Using Instance Storage
+menu:
+  main:
+    Name: Using Instance Storage
+    identifier: bosh/aws-instance-storage
+    parent: bosh
 ---
 
 <p class="note">Note: This feature is available with bosh-aws-cpi v32+ and only for releases deployed with ? stemcells.</p>

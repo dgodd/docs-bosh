@@ -1,5 +1,10 @@
 ---
 title: Initializing BOSH environment on SoftLayer
+menu:
+  main:
+    Name: Initializing BOSH environment on SoftLayer
+    identifier: bosh/init-softlayer
+    parent: bosh
 ---
 
 This document shows how to initialize new [environment](terminology.html#environment) on SoftLayer.

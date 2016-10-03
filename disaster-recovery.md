@@ -1,5 +1,10 @@
 ---
 title: Disaster Recovery with BOSH
+menu:
+  main:
+    Name: Disaster Recovery with BOSH
+    identifier: bosh/disaster-recovery
+    parent: bosh
 ---
 
 Disaster recovery procedures require that you rebuild the architecture of a

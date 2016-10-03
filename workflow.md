@@ -1,5 +1,10 @@
 ---
 title: Basic BOSH Workflow
+menu:
+  main:
+    Name: Basic BOSH Workflow
+    identifier: bosh/workflow
+    parent: bosh
 ---
 
 While the distributed software you use BOSH to deploy can be complex, the basic patterns for working with BOSH are straightforward.

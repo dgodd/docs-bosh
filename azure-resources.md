@@ -1,5 +1,10 @@
 ---
 title: Creating Azure Resources
+menu:
+  main:
+    Name: Creating Azure Resources
+    identifier: bosh/azure-resources
+    parent: bosh
 ---
 
 ## <a id="subscription"></a> Subscription

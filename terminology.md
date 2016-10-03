@@ -1,5 +1,10 @@
 ---
 title: Terminology
+menu:
+  main:
+    Name: Terminology
+    identifier: bosh/terminology
+    parent: bosh
 ---
 
 ## <a id="az"></a> AZ or Availaibility Zone

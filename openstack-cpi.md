@@ -1,5 +1,10 @@
 ---
 title: OpenStack CPI
+menu:
+  main:
+    Name: OpenStack CPI
+    identifier: bosh/openstack-cpi
+    parent: bosh
 ---
 
 This topic describes cloud properties for different resources created by the OpenStack CPI.

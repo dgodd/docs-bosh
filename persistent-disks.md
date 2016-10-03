@@ -1,5 +1,10 @@
 ---
 title: Persistent and Orphaned Disks
+menu:
+  main:
+    Name: Persistent and Orphaned Disks
+    identifier: bosh/persistent-disks
+    parent: bosh
 ---
 
 <p class="note">Note: This document was updated to mention orphaned disks introduced in bosh-release v241+ (1.3163.0).</p>

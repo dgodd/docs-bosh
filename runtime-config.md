@@ -1,5 +1,10 @@
 ---
 title: Runtime Config
+menu:
+  main:
+    Name: Runtime Config
+    identifier: bosh/runtime-config
+    parent: bosh
 ---
 
 <p class="note">Note: This feature is available with bosh-release v255.4+.</p>

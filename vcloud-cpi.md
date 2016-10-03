@@ -1,5 +1,10 @@
 ---
 title: vCloud CPI
+menu:
+  main:
+    Name: vCloud CPI
+    identifier: bosh/vcloud-cpi
+    parent: bosh
 ---
 
 This topic describes cloud properties for different resources created by the vCloud CPI.

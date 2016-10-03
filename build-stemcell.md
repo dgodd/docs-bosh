@@ -1,5 +1,10 @@
 ---
 title: Stemcell Building
+menu:
+  main:
+    Name: Stemcell Building
+    identifier: bosh/build-stemcell
+    parent: bosh
 ---
 
 (See [What is a Stemcell?](stemcell.html) for an introduction to stemcells.)

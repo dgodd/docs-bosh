@@ -1,5 +1,10 @@
 ---
 title: Structure of a BOSH VM
+menu:
+  main:
+    Name: Structure of a BOSH VM
+    identifier: bosh/vm-struct
+    parent: bosh
 ---
 
 All managed VMs include:

@@ -1,5 +1,10 @@
 ---
 title: Deploying MicroBOSH to OpenStack
+menu:
+  main:
+    Name: Deploying MicroBOSH to OpenStack
+    identifier: bosh/deploy-microbosh-to-openstack
+    parent: bosh
 ---
 
 This topic explains how to deploy MicroBOSH to OpenStack.

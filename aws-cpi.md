@@ -1,5 +1,10 @@
 ---
 title: AWS CPI
+menu:
+  main:
+    Name: AWS CPI
+    identifier: bosh/aws-cpi
+    parent: bosh
 ---
 
 This topic describes cloud properties for different resources created by the AWS CPI.

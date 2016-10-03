@@ -1,5 +1,10 @@
 ---
 title: What is a Release?
+menu:
+  main:
+    Name: What is a Release?
+    identifier: bosh/release
+    parent: bosh
 ---
 
 A release is a versioned collection of configuration properties, configuration templates, start up scripts, source code, binary artifacts, and anything else required to build and deploy software in a reproducible way.

@@ -1,5 +1,10 @@
 ---
 title: Post-deploy Script
+menu:
+  main:
+    Name: Post-deploy Script
+    identifier: bosh/post-deploy
+    parent: bosh
 ---
 
 (See [Job Lifecycle](job-lifecycle.html) for an explanation of when post-deploy scripts run.)

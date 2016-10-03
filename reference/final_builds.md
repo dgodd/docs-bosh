@@ -1,5 +1,10 @@
 ---
 title: Final builds
+menu:
+  main:
+    Name: Final builds
+    identifier: bosh/reference/final_builds
+    parent: bosh/reference
 ---
 
 The (hidden) `.final_builds` contains a single `index.yml` for each job and package within all public final releases (even if they are no longer in current final releases).

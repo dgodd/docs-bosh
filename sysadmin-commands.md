@@ -1,5 +1,10 @@
 ---
 title: CLI Commands
+menu:
+  main:
+    Name: CLI Commands
+    identifier: bosh/sysadmin-commands
+    parent: bosh
 ---
 
 This document lists the all CLI commands you use to perform system administration tasks.

@@ -1,5 +1,10 @@
 ---
 title: UAA Integration
+menu:
+  main:
+    Name: UAA Integration
+    identifier: bosh/director-users-uaa
+    parent: bosh
 ---
 
 <p class="note">Note: This feature is available with bosh-release v209+ (1.3088.0) colocated with uaa v1+.</p>

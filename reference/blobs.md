@@ -1,5 +1,10 @@
 ---
 title: Blobs
+menu:
+  main:
+    Name: Blobs
+    identifier: bosh/reference/blobs
+    parent: bosh/reference
 ---
 
 To create final releases, configure your release repository with a blobstore. BOSH uploads final releases to the blobstore, so that the release can later be retrieved from another computer.

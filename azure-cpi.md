@@ -1,5 +1,10 @@
 ---
 title: Azure CPI
+menu:
+  main:
+    Name: Azure CPI
+    identifier: bosh/azure-cpi
+    parent: bosh
 ---
 
 This topic describes cloud properties for different resources created by the Azure CPI.

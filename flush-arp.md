@@ -1,5 +1,10 @@
 ---
 title: Explicit ARP Flushing
+menu:
+  main:
+    Name: Explicit ARP Flushing
+    identifier: bosh/flush-arp
+    parent: bosh
 ---
 
 <p class="note">Note: This feature is available with bosh-release v256+ and 3232+ stemcell series.</p>

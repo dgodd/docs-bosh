@@ -1,5 +1,10 @@
 ---
 title: Bootstrapping an environment
+menu:
+  main:
+    Name: Bootstrapping an environment
+    identifier: bosh/bootstrap
+    parent: bosh
 ---
 
 MicroBOSH is a single-VM BOSH environment that includes all necessary BOSH components. It is the primary way to deploy the [BOSH Director](bosh-components.html#director) and its supporting components to an IaaS to start managing deployments.

@@ -1,5 +1,10 @@
 ---
 title: Multi-homed VMs
+menu:
+  main:
+    Name: Multi-homed VMs
+    identifier: bosh/openstack-multiple-networks
+    parent: bosh
 ---
 
 <p class="note">Note: This feature is available with bosh-openstack-cpi v24+.</p>

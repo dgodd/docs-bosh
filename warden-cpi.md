@@ -1,5 +1,10 @@
 ---
 title: Warden/Garden CPI
+menu:
+  main:
+    Name: Warden/Garden CPI
+    identifier: bosh/warden-cpi
+    parent: bosh
 ---
 
 <p class="note">Note: Updated for bosh-warden-cpi v28+.</p>

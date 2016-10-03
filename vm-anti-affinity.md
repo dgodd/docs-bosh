@@ -1,5 +1,10 @@
 ---
 title: VM Anti-affinity
+menu:
+  main:
+    Name: VM Anti-affinity
+    identifier: bosh/vm-anti-affinity
+    parent: bosh
 ---
 
 For certain deployment jobs, you might want to distribute the instances across multiple physical resources of the IaaS. Even though an IaaS abstracts away the underlying hardware resources, most have specific APIs to configure VM affinity and anti-affinity rules.

@@ -1,5 +1,10 @@
 ---
 title: Deploying MicroBOSH to AWS
+menu:
+  main:
+    Name: Deploying MicroBOSH to AWS
+    identifier: bosh/deploy-microbosh-to-aws
+    parent: bosh
 ---
 
 This topic describes how to deploy MicroBOSH to Amazon Web Services (AWS).

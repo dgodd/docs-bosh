@@ -1,5 +1,10 @@
 ---
 title: Intializing an environment
+menu:
+  main:
+    Name: Intializing an environment
+    identifier: bosh/init
+    parent: bosh
 ---
 
 A single BOSH environment consists of the Director and deployments that it orchestrates. To create an empty environment, we first need to deploy the Director. The Director VM will include all necessary BOSH components that will be used to manage different IaaS resources.

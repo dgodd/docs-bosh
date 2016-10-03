@@ -1,5 +1,10 @@
 ---
 title: Using bosh-init
+menu:
+  main:
+    Name: Using bosh-init
+    identifier: bosh/using-bosh-init
+    parent: bosh
 ---
 
 (See [Install bosh-init](install-bosh-init.html) to set up bosh-init on your machine.)

@@ -1,5 +1,10 @@
 ---
 title: Uploading Stemcells
+menu:
+  main:
+    Name: Uploading Stemcells
+    identifier: bosh/uploading-stemcells
+    parent: bosh
 ---
 
 (See [What is a Stemcell?](stemcell.html) for an introduction to stemcells.)

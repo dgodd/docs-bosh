@@ -1,5 +1,10 @@
 ---
 title: VM Configuration Locations
+menu:
+  main:
+    Name: VM Configuration Locations
+    identifier: bosh/vm-config
+    parent: bosh
 ---
 
 This topic describes important file system locations, configurations and other settings that are true for all VMs managed by BOSH.

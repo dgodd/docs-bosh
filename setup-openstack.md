@@ -1,5 +1,10 @@
 ---
 title: Setting Up OpenStack for BOSH
+menu:
+  main:
+    Name: Setting Up OpenStack for BOSH
+    identifier: bosh/setup-openstack
+    parent: bosh
 ---
 
 This topic explains how to prepare OpenStack for deploying BOSH or MicroBOSH.

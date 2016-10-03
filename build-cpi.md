@@ -1,5 +1,10 @@
 ---
 title: CPI Building
+menu:
+  main:
+    Name: CPI Building
+    identifier: bosh/build-cpi
+    parent: bosh
 ---
 
 This topic describes how to build a CPI.

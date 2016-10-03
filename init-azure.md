@@ -1,5 +1,10 @@
 ---
 title: Initializing BOSH environment on Azure
+menu:
+  main:
+    Name: Initializing BOSH environment on Azure
+    identifier: bosh/init-azure
+    parent: bosh
 ---
 
 This document shows how to initialize new [environment](terminology.html#environment) on Microsoft Azure.

@@ -1,5 +1,10 @@
 ---
 title: Job Lifecycle
+menu:
+  main:
+    Name: Job Lifecycle
+    identifier: bosh/job-lifecycle
+    parent: bosh
 ---
 
 There are several stages that all jobs (and their associated processes) on each VM go through during a deployment process:

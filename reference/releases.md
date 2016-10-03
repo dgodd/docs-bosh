@@ -1,5 +1,10 @@
 ---
 title: Releases
+menu:
+  main:
+    Name: Releases
+    identifier: bosh/reference/releases
+    parent: bosh/reference
 ---
 
 The `releases` folder contains the `yml` file declaring the content of the release : `packages` and their dependencies.

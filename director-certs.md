@@ -1,5 +1,10 @@
 ---
 title: Director SSL Certificate Configuration
+menu:
+  main:
+    Name: Director SSL Certificate Configuration
+    identifier: bosh/director-certs
+    parent: bosh
 ---
 
 ## <a id="generate"></a> Generate SSL certificates

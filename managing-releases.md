@@ -1,5 +1,10 @@
 ---
 title: Managing releases
+menu:
+  main:
+    Name: Managing releases
+    identifier: bosh/managing-releases
+    parent: bosh
 ---
 
 (See [What is a Release?](release.html) and [Uploading releases](uploading-releases.html) for an introduction.)

@@ -1,5 +1,10 @@
 ---
 title: Cloud Config
+menu:
+  main:
+    Name: Cloud Config
+    identifier: bosh/cloud-config
+    parent: bosh
 ---
 
 <p class="note">Warning: If you are using director version between v241 and v256, once you opt into using cloud config all deployments must be converted to use new format. If you want to deploy both v1 and v2 manifests, update to director v257+.</p>

@@ -1,5 +1,10 @@
 ---
 title: What is a Stemcell?
+menu:
+  main:
+    Name: What is a Stemcell?
+    identifier: bosh/stemcell
+    parent: bosh
 ---
 
 A stemcell is a versioned Operating System image wrapped with IaaS specific packaging.

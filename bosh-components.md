@@ -1,5 +1,10 @@
 ---
 title: BOSH Components
+menu:
+  main:
+    Name: BOSH Components
+    identifier: bosh/bosh-components
+    parent: bosh
 ---
 
 Before bootstrapping a new [environment](terminology.html#environment) we recommend to learn the names of major components that will be installed, used and configured:

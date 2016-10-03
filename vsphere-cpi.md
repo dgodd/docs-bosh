@@ -1,5 +1,10 @@
 ---
 title: vSphere CPI
+menu:
+  main:
+    Name: vSphere CPI
+    identifier: bosh/vsphere-cpi
+    parent: bosh
 ---
 
 This topic describes cloud properties for different resources created by the vSphere CPI.

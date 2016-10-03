@@ -1,5 +1,10 @@
 ---
 title: Migrating to bosh-init from the micro CLI plugin
+menu:
+  main:
+    Name: Migrating to bosh-init from the micro CLI plugin
+    identifier: bosh/migrate-to-bosh-init
+    parent: bosh
 ---
 
 The micro CLI plugin is deprecated and will be discontinued in a few months. `bosh-init` replaces its functionality and improves on its features. If you do not maintain a MicroBOSH VM, there is no need to do anything; however, if you do please follow these steps:

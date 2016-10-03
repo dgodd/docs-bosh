@@ -1,5 +1,10 @@
 ---
 title: Migrating from one datastore to another
+menu:
+  main:
+    Name: Migrating from one datastore to another
+    identifier: bosh/vsphere-migrate-datastores
+    parent: bosh
 ---
 
 <p class="note">Note: This feature is available with bosh-vsphere-cpi v9+.</p>

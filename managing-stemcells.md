@@ -1,5 +1,10 @@
 ---
 title: Managing stemcells
+menu:
+  main:
+    Name: Managing stemcells
+    identifier: bosh/managing-stemcells
+    parent: bosh
 ---
 
 (See [What is a Stemcell?](stemcell.html) and [Uploading stemcells](uploading-stemcells.html) for an introduction.)

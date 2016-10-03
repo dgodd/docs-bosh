@@ -1,5 +1,10 @@
 ---
 title: Renaming/migrating instance groups
+menu:
+  main:
+    Name: Renaming/migrating instance groups
+    identifier: bosh/migrated-from
+    parent: bosh
 ---
 
 Occasionally, it's convenient to rename one or more instance groups as their purpose changes or as better names are found. In most cases it's desirable to maintain existing persistent data by keeping existing persistent disks.

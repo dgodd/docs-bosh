@@ -1,5 +1,10 @@
 ---
 title: Networks
+menu:
+  main:
+    Name: Networks
+    identifier: bosh/networks
+    parent: bosh
 ---
 
 A BOSH network is an IaaS-agnostic representation of the networking layer. The Director is responsible for configuring each deployment job's networks with the help of the BOSH Agent and the IaaS. Networking configuration is usually assigned at the boot of the VM and/or when network configuration changes in the deployment manifest for already-running deployment jobs.

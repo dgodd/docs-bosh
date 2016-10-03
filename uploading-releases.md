@@ -1,5 +1,10 @@
 ---
 title: Uploading Releases
+menu:
+  main:
+    Name: Uploading Releases
+    identifier: bosh/uploading-releases
+    parent: bosh
 ---
 
 (See [What is a Release?](release.html) for an introduction to releases.)

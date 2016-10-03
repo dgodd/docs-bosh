@@ -1,5 +1,10 @@
 ---
 title: BOSH Lite
+menu:
+  main:
+    Name: BOSH Lite
+    identifier: bosh/bosh-lite
+    parent: bosh
 ---
 
 [BOSH Lite](https://github.com/cloudfoundry/bosh-lite) is a pre-built [Vagrant](https://www.vagrantup.com/) box which includes the Director. It uses containers to emulate VMs which makes it an excellent choice for:
